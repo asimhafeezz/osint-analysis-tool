@@ -1,0 +1,9 @@
+crewai==0.22.5
+duckduckgo-search
+crewai-tools
+decouple
+langchain-exa
+exa_py==1.0.7
+openai
+setuptools
+streamlit
