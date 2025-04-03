@@ -1,6 +1,6 @@
-# OSINT Analysis Tool
+# OSINT Company Analysis Tool
 
-This Streamlit application provides a simplified Open Source Intelligence (OSINT) analysis of a given company. It leverages the CrewAI framework with a small team of specialized agents to gather and report on key publicly available information.
+An AI-powered multi-agent tool for performing deep Open-Source Intelligence (OSINT) analysis on any company using advanced LLMs, web search, and structured research agents.
 
 ## Overview
 
